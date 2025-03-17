@@ -10,3 +10,4 @@ numpy==1.23.5
 mediapipe==0.10.21
 opencv-python==4.5.5.64
 gunicorn==21.2.0
+eventlet==0.33.3
